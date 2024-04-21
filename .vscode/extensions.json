@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "cschlosser.doxdocgen",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "evondev.indent-rainbow-palettes",
+    "josevseb.google-java-format-for-vs-code",
+    "michaelcurrin.auto-commit-msg",
+    "oderwat.indent-rainbow",
+    "redhat.java",
+    "redhat.vscode-xml",
+    "shengchen.vscode-checkstyle",
+    "spmeesseman.vscode-taskexplorer",
+    "streetsidesoftware.code-spell-checker",
+    "vscjava.vscode-gradle",
+    "vscjava.vscode-java-pack"
+  ]
+}
