@@ -1,4 +1,16 @@
 {
+  "gradle.debug": true,
   "java.checkstyle.configuration": "/google_checks.xml",
-  "java.compile.nullAnalysis.mode": "automatic"
+  "java.checkstyle.version": "10.15.0",
+  "java.codeGeneration.generateComments": true,
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.runtimes": [
+    {
+      "default": true,
+      "name": "JavaSE-21",
+      "path": "/usr/lib/jvm/msopenjdk-current/"
+    }
+  ],
+  "java.format.settings.profile": "GoogleStyle",
+  "java.format.settings.url": "./eclipse-java-google-style.xml"
 }
