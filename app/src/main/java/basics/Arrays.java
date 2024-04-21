@@ -10,7 +10,7 @@ import java.util.ArrayList;
 public class Arrays {
 
   /** Creates an array of colours and performs operations on it. */
-  public static void main() {
+  public static void main(String[] args) {
 
     ArrayList<String> colours = new ArrayList<String>();
 

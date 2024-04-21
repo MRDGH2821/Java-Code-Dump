@@ -8,7 +8,7 @@ package inheritance;
 public class Inherit {
 
   /** Demonstrates inheritance. */
-  public static void main() {
+  public static void main(String[] args) {
     SubSample subSample = new SubSample();
     subSample.upper();
 

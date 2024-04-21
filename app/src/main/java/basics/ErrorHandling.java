@@ -7,7 +7,7 @@ package basics;
  */
 public class ErrorHandling {
   /** Demonstrates error handling. */
-  public static void main() {
+  public static void main(String[] args) {
 
     try {
       int num1 = 2;

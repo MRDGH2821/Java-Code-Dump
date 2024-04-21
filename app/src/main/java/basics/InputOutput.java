@@ -9,7 +9,7 @@ import java.util.Scanner;
  */
 public class InputOutput {
   /** Takes input of various data types. */
-  public static void main() {
+  public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
 
     System.out.println("Enter a string");
