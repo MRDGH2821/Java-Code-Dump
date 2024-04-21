@@ -18,5 +18,5 @@
   "java.import.gradle.version": "8.7",
   "java.import.gradle.wrapper.enabled": true,
   "java.jdt.ls.java.home": "/usr/lib/jvm/msopenjdk-current/",
-  "java.configuration.updateBuildConfiguration": "interactive"
+  "java.configuration.updateBuildConfiguration": "automatic"
 }
